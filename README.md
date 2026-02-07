@@ -9,14 +9,16 @@
 
 ---
 
-### 🧠 **Acerca de mí**
-Soy una apasionada del diseño web y la tecnología. Aunque soñaba con ser arquitecta, descubrí que crear experiencias digitales estéticas y funcionales es mi verdadera vocación.  
-Actualmente, estudio **ASIR** y dedico mi tiempo libre a dominar **Java**, **HTML**, **CSS** y **JavaScript**, mientras perfecciono mi técnica en el diseño.
+### 🧠 Acerca de mí
 
-Domino **3 idiomas** (español, árabe, francés).
-Mi objetivo es combinar mis habilidades técnicas con mi creatividad para construir webs que no solo funcionen bien, sino que también enamoren visualmente.
+Me apasiona transformar ideas en experiencias digitales donde el diseño y la funcionalidad trabajan juntos.  
+Aunque inicialmente quería ser arquitecta, encontré en el mundo digital otra forma de construir y dar forma a ideas.
 
-💻 *Programadora front-end y back-end en formación, diseñadora UI de corazón, apasionada por los detalles pixel-perfect.*
+Actualmente estudio ASIR y sigo desarrollando mi creatividad, mi lógica y mi atención al detalle.
+
+Hablo español, árabe y francés, y disfruto creando proyectos que combinan estética, estructura y personalidad.
+
+💻 Programadora en formación · Diseñadora UI · Perfeccionista del detalle
 
 ---
 
