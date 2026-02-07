@@ -11,8 +11,7 @@
 
 ### Acerca de mí
 
-Me apasiona transformar ideas en experiencias digitales donde el diseño y la funcionalidad trabajan juntos.  
-Aunque inicialmente quería ser arquitecta, encontré en el mundo digital otra forma de construir y dar forma a ideas.
+Me apasiona transformar ideas en experiencias digitales donde el diseño y la funcionalidad trabajan juntos.
 
 Actualmente estudio ASIR y sigo desarrollando mi creatividad, mi lógica y mi atención al detalle.
 
