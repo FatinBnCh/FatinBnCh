@@ -21,17 +21,6 @@ Programadora en formación · Diseñadora UI · Perfeccionista del detalle
 
 ---
 
-### **Idiomas**
-
-| Idioma   | Nivel                        |
-|----------|-----------------------------|
-| Español  | Competencia nativa          |
-| Francés  | Competencia intermedia          |
-| Árabe    | Competencia nativa          |
-| Inglés   | Competencia básica limitada |
-
----
-
 ### 🛠 **Stack Tecnológico**
 <div align="center">
 
@@ -54,7 +43,7 @@ Programadora en formación · Diseñadora UI · Perfeccionista del detalle
 - 🔍 Atención al detalle
 - 🧠 Aprendizaje profundo
 - 🎭 Creatividad
-- 💬 Multilingüe (Español, Francés, Árabe, Inglés básico)
+- 💬 Multilingüe (Español, Francés, Árabe, Inglés)
 
 ---
 
