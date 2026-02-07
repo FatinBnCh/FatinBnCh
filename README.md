@@ -21,7 +21,7 @@ Programadora en formación · Diseñadora UI · Perfeccionista del detalle
 
 ---
 
-### 🛠 **Stack Tecnológico**
+### **Stack Tecnológico**
 <div align="center">
 
 | **Categoría**       | **Tecnologías** |
@@ -36,21 +36,21 @@ Programadora en formación · Diseñadora UI · Perfeccionista del detalle
 
 ---
 
-### 💡 **Conocimientos y Aptitudes**
+### **Conocimientos y Aptitudes**
 
-- 🎨 Diseño web
-- ✨ Estética visual
-- 🔍 Atención al detalle
-- 🧠 Aprendizaje profundo
-- 🎭 Creatividad
-- 💬 Multilingüe (Español, Francés, Árabe, Inglés)
+- Diseño web
+- Estética visual
+- Atención al detalle
+- Aprendizaje profundo
+- Creatividad
+- Multilingüe (Español, Francés, Árabe, Inglés)
 
 ---
 
-### 📬 **Contacto**
+### **Contacto**
 
-- 📧 **Email**: [benchibafatin@gmail.com](mailto:benchibafatin@gmail.com)  
-- 💼 **LinkedIn**: [Fatin Ben Chiba](https://www.linkedin.com/in/fatin-ben-chiba-74211335a)
+- **Email**: [benchibafatin@gmail.com](mailto:benchibafatin@gmail.com)  
+- **LinkedIn**: [Fatin Ben Chiba](https://www.linkedin.com/in/fatin-ben-chiba-74211335a)
 
 ---
 
