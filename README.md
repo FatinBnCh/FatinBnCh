@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=¡Hola+soy+Fatin!&fontSize=40&fontColor=fff&animation=fadeIn" alt="banner" style="width: 100%;" />
 </p>
 
-### 👩‍💻 **Perfil**
+### **Perfil**
 **Desarrolladora Front-end | Estudiante ASIR**  
 *Combino código limpio con diseños intuitivos. Especializada en crear experiencias digitales que funcionan tan bien como se ven.*
 
 ---
 
-### 🧠 Acerca de mí
+### Acerca de mí
 
 Me apasiona transformar ideas en experiencias digitales donde el diseño y la funcionalidad trabajan juntos.  
 Aunque inicialmente quería ser arquitecta, encontré en el mundo digital otra forma de construir y dar forma a ideas.
@@ -18,11 +18,11 @@ Actualmente estudio ASIR y sigo desarrollando mi creatividad, mi lógica y mi at
 
 Hablo español, árabe y francés, y disfruto creando proyectos que combinan estética, estructura y personalidad.
 
-💻 Programadora en formación · Diseñadora UI · Perfeccionista del detalle
+Programadora en formación · Diseñadora UI · Perfeccionista del detalle
 
 ---
 
-### 🌍 **Idiomas**
+### **Idiomas**
 
 | Idioma   | Nivel                        |
 |----------|-----------------------------|
